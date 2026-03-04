@@ -4,13 +4,12 @@ This repository tracks my progress, notes, and code implementations as I study *
 
 The goal of this project is to master fundamental algorithms and data structures through visual understanding and practical coding.
 
----
 
 ## 📖 About the Book
 *Grokking Algorithms* is a fully illustrated guide that makes complex topics intuitive. It covers everything from **Big-O notation** to **Dynamic Programming** using a "visual first" approach.
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,python,git,github)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode)](https://skillicons.dev)  
 
 ## 📈 Study Progress
 - [x] **Chapter 1:** Binary Search & Big O Notation
