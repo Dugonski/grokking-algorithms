@@ -20,4 +20,6 @@ The goal of this project is to master fundamental algorithms and data structures
 - [ ] **Chapter 6:** Breadth-First Search (Graphs)
 - [ ] **Chapter 7:** Dijkstra’s Algorithm
 - [ ] **Chapter 8:** Greedy Algorithms (NP-complete problems)
-- [ ] **Chapter 10:** K-nearest Neighbors
+- [ ] **Chapter 9:** Dynamic Programming (The Knapsack Problem)
+- [ ] **Chapter 10:** K-nearest Neighbors (Classification)
+- [ ] **Chapter 11:** Where to Go Next (Trees, NP-completeness, etc.)
